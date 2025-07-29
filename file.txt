@@ -1,3 +1,4 @@
 Hello
 Line from festure branch
 Master's line
+Another line from feature
